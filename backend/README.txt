@@ -23,13 +23,6 @@ Frontend: - HTML - CSS - JavaScript
 
 Внешний сервис: - Gutendex API
 
-Структура проекта
-
-BookHub ├── backend │ ├── static │ ├── legacy │ ├── auth.py │ ├──
-config.py │ ├── database.py │ ├── home_page.py │ ├──
-load_gutendex_books.py │ ├── main.py │ ├── migrate_auth.py │ ├──
-models.py │ ├── routes.py │ └── requirements.txt ├── frontend │ ├──
-index.html │ ├── style.css │ └── script.js
 
 Запуск проекта
 
